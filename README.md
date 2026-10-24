@@ -2,6 +2,8 @@
 
 My HLD notes for interview prep. Every system follows the same framework, so each page can be revised the same way.
 
+> Low Level Design (C++) is in a separate repo: [low-level-design](https://github.com/Ravindra230105/low-level-design)
+
 ## Systems
 
 | # | System | Key concepts | Diagrams |
